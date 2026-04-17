@@ -1,0 +1,1 @@
+# segmentasiOtsu_PCD 
